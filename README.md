@@ -26,7 +26,7 @@ git clone https://github.com/Manoj-Sen/L7-Informatics-Internship-Assignment.git
 4. Run the main.py file:
  
 ```sh
-python app.py
+python main.py
 ```
 
 

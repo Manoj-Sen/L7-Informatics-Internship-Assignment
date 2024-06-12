@@ -16,11 +16,18 @@ We can install the required packages using pip:
 
 1. Clone this repository to your local machine using Git:
 
+```sh
+git clone https://github.com/Manoj-Sen/L7-Informatics-Internship-Assignment.git
+```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
 
-3. Run the main.py file:
+4. Run the main.py file:
+ 
+```sh
+python app.py
+```
 
 
 4. Follow the on-screen instructions to interact with the Ice Cream Parlor Management System.
@@ -32,6 +39,27 @@ We can install the required packages using pip:
 - **Add to Cart**: Lets users add flavors to their cart by flavor ID.
 - **View Cart**: Displays the items currently in the cart along with the total price.
 - **Exit**: Exits the program after clearing the cart.
+
+
+## screenshot
+
+## Ice Cream Parlor 
+
+![](https://github.com/Manoj-Sen/L7-Informatics-Internship-Assignment/blob/main/Image/1.png
+)
+
+
+![](
+https://github.com/Manoj-Sen/L7-Informatics-Internship-Assignment/blob/main/Image/2.png
+)
+
+
+![](https://github.com/Manoj-Sen/L7-Informatics-Internship-Assignment/blob/main/Image/3.png
+)
+
+
+![](https://github.com/Manoj-Sen/L7-Informatics-Internship-Assignment/blob/main/Image/4.png
+)
 
 ## Contributing
 

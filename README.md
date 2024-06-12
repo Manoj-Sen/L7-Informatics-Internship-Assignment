@@ -61,9 +61,6 @@ https://github.com/Manoj-Sen/L7-Informatics-Internship-Assignment/blob/main/Imag
 ![](https://github.com/Manoj-Sen/L7-Informatics-Internship-Assignment/blob/main/Image/4.png
 )
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
 
 ## License
 
